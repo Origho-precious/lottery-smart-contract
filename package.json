@@ -2,9 +2,10 @@
   "name": "lottery",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "compile.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "compile": "node compile.js"
   },
   "author": "",
   "license": "ISC",
